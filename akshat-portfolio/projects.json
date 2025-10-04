@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Hacktoberfest Contributor",
+        "description": "Successfully submitted multiple pull requests to various open-source projects as part of Hacktoberfest 2025.",
+        "link": "#"
+    },
+    {
+        "title": "Python UI Refactor",
+        "description": "Refactored a Python PyQt6 application to use a modern, responsive layout with splitters and group boxes.",
+        "link": "#"
+    },
+    {
+        "title": "Portfolio Project",
+        "description": "This very portfolio, built with HTML, CSS, and dynamic JavaScript to load projects.",
+        "link": "#"
+    }
+]
